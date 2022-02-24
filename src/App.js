@@ -116,7 +116,7 @@ export default function () {
     <>
       <VRCanvas sRGB>
         <color attach="background" args={["#171720"]} />
-        <ambientLight intensity={0.5} />
+        <ambientLight intensity={0.7} />
         <pointLight position={[-10, -10, -10]} />
         <spotLight
           position={[10, 10, 10]}
@@ -155,7 +155,7 @@ export default function () {
         </Physics>
       </VRCanvas>
       <div className="startup" style={{ display: welcome ? "block" : "none" }}>
-        * once in vr press trigger to start
+       Global XR Demo
       </div>
     </>
   )
