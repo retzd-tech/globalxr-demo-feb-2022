@@ -1,6 +1,9 @@
 {
   "short_name": "GlobalXRDemo",
   "name": "Global XR Demo",
+  "dir": "ltr",
+  "orientation": "any",
+  "scope": "/",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,7 +22,7 @@
     }
   ],
   "start_url": ".",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }

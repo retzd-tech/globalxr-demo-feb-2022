@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.web.globalxr_demo.twa",
+                     "sha256_cert_fingerprints": ["00:4A:D1:88:02:0F:19:A4:1E:43:1B:DB:28:CF:C6:9A:B3:9F:AA:1B:DC:94:76:5E:0F:EF:35:76:D4:54:C1:0B"] }
+      }
+]
